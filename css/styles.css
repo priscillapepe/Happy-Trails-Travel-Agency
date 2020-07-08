@@ -1,8 +1,5 @@
-h1{
-    color: blue;
-    text-align: center;
-}
-h2{
-    color: darkred;
-    text-align: center;
+.tropical{
+    color: #f7325e;
+    text-decoration-color: #7dc410;
+    font-family: fantasy;
 }
